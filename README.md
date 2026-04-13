@@ -29,4 +29,4 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di komputer kamu:
 1. **Clone Repositori**
    Buka terminal/Command Prompt dan ketikkan:
    ```bash
-   git clone <LINK_GITHUB_KAMU_DISINI>
+   git clone <(https://github.com/hansrehan12/Fragment_MYProfile.git)>
